@@ -4,7 +4,7 @@ pipeline
   environment
   {
     registry = "ashutoshs7/demo"
-    registryCredential = 'dockerid'
+    registryCredential = 'dockerid2'
     dockerImage = ''
   }
 agent any
